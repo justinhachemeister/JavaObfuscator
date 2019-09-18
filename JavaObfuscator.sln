@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaObfuscator", "JavaObfuscator\JavaObfuscator.csproj", "{BDFE10CD-9891-4C47-B432-8431E7C23E29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaResolver", "JavaResolver\JavaResolver.csproj", "{08D550A9-6173-478B-99EB-281EA5806D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFE10CD-9891-4C47-B432-8431E7C23E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFE10CD-9891-4C47-B432-8431E7C23E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFE10CD-9891-4C47-B432-8431E7C23E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFE10CD-9891-4C47-B432-8431E7C23E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08D550A9-6173-478B-99EB-281EA5806D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D550A9-6173-478B-99EB-281EA5806D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D550A9-6173-478B-99EB-281EA5806D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D550A9-6173-478B-99EB-281EA5806D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FF5EDB-DEF8-4AC8-9EBC-24FEC0E7589B}
+	EndGlobalSection
+EndGlobal
